@@ -122,9 +122,9 @@ body{margin:0;background:var(--bg);color:var(--ink);
   box-shadow:none;animation:none;opacity:1;margin-top:30px}
 .cta.ghost:hover{background:var(--accent);color:#1a1305}
 .scroll-cue{position:absolute;bottom:20px;left:50%;transform:translateX(-50%);
-  z-index:2;color:var(--accent);font-size:40px;line-height:1;text-decoration:none;
+  z-index:2;color:#fff;font-size:40px;line-height:1;text-decoration:none;
   text-shadow:0 3px 16px rgba(0,0,0,.75);animation:bob 1.5s ease-in-out infinite}
-.scroll-cue:hover{color:#fff}
+.scroll-cue:hover{color:var(--accent)}
 
 .about{background:var(--bg);padding:clamp(64px,12vw,120px) 24px}
 .about-inner{max-width:680px;margin:0 auto;text-align:center}
