@@ -153,8 +153,15 @@ body{margin:0;background:var(--bg);color:var(--ink);
 @keyframes bob{0%,100%{transform:translateX(-50%) translateY(0)}50%{transform:translateX(-50%) translateY(8px)}}
 @keyframes wheel{0%{opacity:0;transform:translate(-50%,0)}20%{opacity:1}100%{opacity:0;transform:translate(-50%,14px)}}
 @keyframes fadeIn{from{opacity:0}to{opacity:1}}
+
+/* cross-page fade — "bring the lights up" */
+.page-fade{position:fixed;inset:0;z-index:9999;background:#0f0f10;
+  pointer-events:none;animation:lightsUp 900ms ease forwards}
+@keyframes lightsUp{from{opacity:1}to{opacity:0}}
+
 @media(prefers-reduced-motion:reduce){
   .hero-bg{animation:none}.scroll-cue{animation:none;opacity:1}.wheel{animation:none}
   .wordmark,.wordmark-sub,.hero-tag,.cta{animation:none;opacity:1}
   .hero-rule{width:64px;animation:none}.reveal{transition:none}
+  .page-fade{animation:none;opacity:0;display:none}
 }
