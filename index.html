@@ -4,23 +4,59 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Wild Focus — Paul E. Stafford Photography</title>
-<meta name="description" content="Wild Focus — nature, landscape &amp; architectural photography of the Texas Hill Country by Paul E. Stafford. A new gallery is coming soon.">
+<meta name="description" content="Wild Focus — nature, landscape &amp; architectural photography of the Texas Hill Country by Paul E. Stafford.">
+<link rel="preload" as="image" href="images/landscape/landscape-025.jpg">
 <link rel="stylesheet" href="assets/style.css">
 </head>
-<body>
-<main class="landing">
-  <h1>WILD FOCUS</h1>
-  <div class="sub">Paul E. Stafford Photography</div>
-  <div class="rule"></div>
-  <p class="soon">
-    Nature, landscape &amp; architectural photography of the Texas Hill Country.
-    <br>A refreshed gallery is on its way — check back soon.
-  </p>
-  <div class="contact">
-    <a href="mailto:pestafford@wildfocus.net">pestafford@wildfocus.net</a><br>
-    (830) 895-3079
+<body class="home">
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-bg" style="background-image:url('images/landscape/landscape-025.jpg')"></div>
+  <div class="hero-veil"></div>
+  <div class="hero-inner">
+    <h1 class="wordmark">WILD FOCUS</h1>
+    <div class="wordmark-sub">Paul E. Stafford Photography</div>
+    <div class="hero-rule"></div>
+    <p class="hero-tag">Nature, landscape &amp; architectural photography<br>of the Texas Hill Country</p>
+    <a class="cta" href="gallery.html">View the Gallery</a>
   </div>
-  <div class="foot">&copy; Paul E. Stafford &middot; Wild Focus. All rights reserved.</div>
-</main>
+  <a href="#about" class="scroll-cue" aria-label="Scroll to learn more">&#9662;</a>
+</section>
+
+<!-- ABOUT (Paul's own bio, carried from his site) -->
+<section class="about" id="about">
+  <div class="about-inner reveal">
+    <span class="eyebrow">About the Photographer</span>
+    <h2>Paul E. Stafford</h2>
+    <div class="about-rule"></div>
+    <p>Paul E. Stafford has traveled the world many times, producing documentary films, shooting tens of thousands of still photographs and arranging high-level special events. Although most of his career was devoted to documenting offshore oil and gas construction activities, he became fascinated with wildlife and nature photography in the early &rsquo;70s.</p>
+    <p>After 42 years with one company, he retired as Director of Communication Services and furthered his career in the industrial arena as Vice President of a major film, video and graphics firm in the New Orleans area. Since his retirement, his interest has focused on nature, landscape and architectural photography.</p>
+    <p>He and his wife, Fay, moved to Kerrville in the hill country of Texas in April of 2005 to further their pursuit of capturing the outdoors on film.</p>
+    <a class="cta ghost" href="gallery.html">Enter the Gallery &rarr;</a>
+  </div>
+</section>
+
+<!-- CONTACT / FOOTER -->
+<footer class="site-footer">
+  <div class="reveal">
+    <div class="name">Contact Paul</div>
+    Phone: (830) 895-3079<br>
+    <a href="mailto:pestafford@wildfocus.net">pestafford@wildfocus.net</a>
+    <div class="license">&copy; Paul E. Stafford &middot; Wild Focus. All rights reserved.</div>
+  </div>
+</footer>
+
+<script>
+// Scroll-reveal for the About + Contact blocks
+(function () {
+  var els = document.querySelectorAll('.reveal');
+  if (!('IntersectionObserver' in window)) { els.forEach(function (e) { e.classList.add('in'); }); return; }
+  var io = new IntersectionObserver(function (entries) {
+    entries.forEach(function (en) { if (en.isIntersecting) { en.target.classList.add('in'); io.unobserve(en.target); } });
+  }, { threshold: 0.18 });
+  els.forEach(function (e) { io.observe(e); });
+})();
+</script>
 </body>
 </html>

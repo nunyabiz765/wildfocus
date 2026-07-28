@@ -5,15 +5,17 @@
   const filters = document.querySelectorAll('.filters button');
 
   // ---- category filter ----
-  let current = 'all';
+  const activeBtn = document.querySelector('.filters button.active') || filters[0];
+  let current = activeBtn ? activeBtn.dataset.filter : 'wildlife';
+  function applyFilter(cat) {
+    items.forEach(it => it.classList.toggle('hide', !(cat === 'all' || it.dataset.cat === cat)));
+  }
+  applyFilter(current); // apply the default category on load
   filters.forEach(btn => btn.addEventListener('click', () => {
     filters.forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
     current = btn.dataset.filter;
-    items.forEach(it => {
-      const show = current === 'all' || it.dataset.cat === current;
-      it.classList.toggle('hide', !show);
-    });
+    applyFilter(current);
   }));
 
   // visible items, in DOM order — drives prev/next
