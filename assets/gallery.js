@@ -12,10 +12,15 @@
   }
   applyFilter(current); // apply the default category on load
   filters.forEach(btn => btn.addEventListener('click', () => {
+    if (btn.classList.contains('active')) return;   // same tab — ignore
     filters.forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
     current = btn.dataset.filter;
-    applyFilter(current);
+    grid.classList.add('switching');                 // fade grid out
+    setTimeout(function () {
+      applyFilter(current);                          // swap category while hidden
+      requestAnimationFrame(function () { grid.classList.remove('switching'); }); // fade back in
+    }, 190);
   }));
 
   // visible items, in DOM order — drives prev/next
