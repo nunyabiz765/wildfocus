@@ -94,7 +94,7 @@ body{margin:0;background:var(--bg);color:var(--ink);
 .hero{position:relative;height:100vh;min-height:560px;display:flex;
   align-items:center;justify-content:center;text-align:center;overflow:hidden}
 .hero-bg{position:absolute;inset:-4%;background-size:cover;background-position:center;
-  transform:scale(1.04);animation:kenburns 26s ease-in-out infinite alternate;
+  transform:scale(1.0);animation:kenburns 26s ease-in-out infinite alternate;
   will-change:transform}
 .hero-veil{position:absolute;inset:0;
   background:radial-gradient(120% 90% at 50% 35%,rgba(15,15,16,.15),rgba(15,15,16,.45) 60%,rgba(15,15,16,.72) 100%)}
@@ -140,8 +140,8 @@ body{margin:0;background:var(--bg);color:var(--ink);
   transition:opacity .9s ease,transform .9s cubic-bezier(.2,.7,.2,1)}
 .reveal.in{opacity:1;transform:none}
 
-@keyframes kenburns{from{transform:scale(1.04) translate3d(0,0,0)}
-  to{transform:scale(1.16) translate3d(0,-2%,0)}}
+@keyframes kenburns{from{transform:scale(1.0) translate3d(0,0,0)}
+  to{transform:scale(1.06) translate3d(0,-1.5%,0)}}
 @keyframes heroUp{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}
 @keyframes drawRule{from{width:0}to{width:64px}}
 @keyframes bob{0%,100%{transform:translateX(-50%) translateY(0)}50%{transform:translateX(-50%) translateY(8px)}}
