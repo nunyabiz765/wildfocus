@@ -134,6 +134,10 @@ body{margin:0;background:var(--bg);color:var(--ink);
   letter-spacing:.14em;font-size:clamp(26px,5vw,40px);margin:14px 0 0}
 .about-rule{width:54px;height:1px;background:var(--accent);margin:22px auto 30px}
 .about p{color:#d7d3c8;font-size:clamp(15px,2vw,17px);line-height:1.9;margin:0 0 18px}
+.about-figure{margin:0 auto 30px;max-width:460px}
+.about-photo{display:block;width:100%;height:auto;border-radius:6px;
+  border:1px solid rgba(255,255,255,.10);box-shadow:0 12px 34px rgba(0,0,0,.5)}
+.about-cap{margin:10px 0 0;color:#9c968a;font-size:12px;font-style:italic;letter-spacing:.05em}
 
 /* scroll reveal */
 .reveal{opacity:0;transform:translateY(26px);
