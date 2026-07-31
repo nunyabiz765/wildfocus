@@ -97,7 +97,7 @@ body{margin:0;background:var(--bg);color:var(--ink);
   transform:scale(1.04);animation:kenburns 26s ease-in-out infinite alternate;
   will-change:transform}
 .hero-veil{position:absolute;inset:0;
-  background:radial-gradient(120% 90% at 50% 35%,rgba(15,15,16,.35),rgba(15,15,16,.72) 60%,rgba(15,15,16,.94) 100%)}
+  background:radial-gradient(120% 90% at 50% 35%,rgba(15,15,16,.15),rgba(15,15,16,.45) 60%,rgba(15,15,16,.72) 100%)}
 .hero-inner{position:relative;z-index:2;padding:24px;display:flex;
   flex-direction:column;align-items:center}
 .wordmark{margin:0;font-family:Georgia,"Times New Roman",serif;font-weight:600;
