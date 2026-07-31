@@ -91,7 +91,7 @@ body{margin:0;background:var(--bg);color:var(--ink);
 
 /* ===== home / dressy animated landing ===== */
 .home{overflow-x:hidden}
-.hero{position:relative;height:100vh;min-height:560px;display:flex;
+.hero{position:relative;height:100vh;height:100svh;min-height:520px;display:flex;
   align-items:center;justify-content:center;text-align:center;overflow:hidden}
 .hero-bg{position:absolute;inset:-4%;background-size:cover;background-position:center;
   transform:scale(1.0);animation:kenburns 26s ease-in-out infinite alternate;
@@ -121,8 +121,8 @@ body{margin:0;background:var(--bg);color:var(--ink);
 .cta.ghost{background:transparent;color:var(--accent);border:1px solid var(--accent);
   box-shadow:none;animation:none;opacity:1;margin-top:30px}
 .cta.ghost:hover{background:var(--accent);color:#1a1305}
-.scroll-cue{position:absolute;bottom:20px;left:50%;transform:translateX(-50%);
-  z-index:2;color:#fff;font-size:40px;line-height:1;text-decoration:none;
+.scroll-cue{position:absolute;bottom:calc(16px + env(safe-area-inset-bottom,0px));left:50%;transform:translateX(-50%);
+  z-index:3;color:#fff;font-size:40px;line-height:1;text-decoration:none;
   text-shadow:0 3px 16px rgba(0,0,0,.75);animation:bob 1.5s ease-in-out infinite}
 .scroll-cue:hover{color:var(--accent)}
 
