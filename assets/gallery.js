@@ -4,6 +4,27 @@
   const items = Array.from(grid.querySelectorAll('.item'));
   const filters = document.querySelectorAll('.filters button');
 
+  // ---- masonry: derive each tile's grid row-span from its rendered height ----
+  const GRID_ROW = 8, GRID_GAP = 14;
+  function sizeItem(it) {
+    if (it.classList.contains('hide')) { it.style.gridRowEnd = ''; return; }
+    const img = it.querySelector('img');
+    let h = img.getBoundingClientRect().height;
+    if (!h && img.getAttribute('width')) h = it.clientWidth * (+img.getAttribute('height')) / (+img.getAttribute('width'));
+    if (!h) return;
+    it.style.gridRowEnd = 'span ' + Math.max(1, Math.round((h + GRID_GAP) / (GRID_ROW + GRID_GAP)));
+  }
+  function layoutMasonry() { items.forEach(sizeItem); }
+  let rAF = null;
+  window.addEventListener('resize', function () {
+    if (rAF) cancelAnimationFrame(rAF);
+    rAF = requestAnimationFrame(layoutMasonry);
+  });
+  items.forEach(it => {
+    const img = it.querySelector('img');
+    if (!img.complete) img.addEventListener('load', () => sizeItem(it));
+  });
+
   // ---- category filter ----
   const activeBtn = document.querySelector('.filters button.active') || filters[0];
   let current = activeBtn ? activeBtn.dataset.filter : 'wildlife';
@@ -11,6 +32,7 @@
     items.forEach(it => it.classList.toggle('hide', !(cat === 'all' || it.dataset.cat === cat)));
   }
   applyFilter(current); // apply the default category on load
+  layoutMasonry();
   filters.forEach(btn => btn.addEventListener('click', () => {
     if (btn.classList.contains('active')) return;   // same tab — ignore
     filters.forEach(b => b.classList.remove('active'));
@@ -19,6 +41,7 @@
     grid.classList.add('switching');                 // fade grid out
     setTimeout(function () {
       applyFilter(current);                          // swap category while hidden
+      layoutMasonry();                               // re-pack for the new set
       requestAnimationFrame(function () { grid.classList.remove('switching'); }); // fade back in
     }, 190);
   }));
