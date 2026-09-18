@@ -1,0 +1,1066 @@
+{
+  "site": "wildfocus.net",
+  "categories": [
+    "wildlife",
+    "landscape",
+    "architecture"
+  ],
+  "photos": [
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/wildlife-004.jpg",
+      "full": "images/wildlife/wildlife-004.jpg",
+      "w": 600,
+      "h": 399,
+      "alt": "Wildlife photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/wildlife-008.jpg",
+      "full": "images/wildlife/wildlife-008.jpg",
+      "w": 600,
+      "h": 399,
+      "alt": "Wildlife photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/wildlife-011.jpg",
+      "full": "images/wildlife/wildlife-011.jpg",
+      "w": 456,
+      "h": 600,
+      "alt": "Wildlife photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/wildlife-013.jpg",
+      "full": "images/wildlife/wildlife-013.jpg",
+      "w": 600,
+      "h": 472,
+      "alt": "Wildlife photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/wildlife-014.jpg",
+      "full": "images/wildlife/wildlife-014.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Wildlife photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/wildlife-031.jpg",
+      "full": "images/wildlife/wildlife-031.jpg",
+      "w": 454,
+      "h": 600,
+      "alt": "Wildlife photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/wildlife-034.jpg",
+      "full": "images/wildlife/wildlife-034.jpg",
+      "w": 600,
+      "h": 399,
+      "alt": "Wildlife photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/wildlife-037.jpg",
+      "full": "images/wildlife/wildlife-037.jpg",
+      "w": 480,
+      "h": 600,
+      "alt": "Wildlife photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/wildlife-040.jpg",
+      "full": "images/wildlife/wildlife-040.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Wildlife photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/wildlife-058.jpg",
+      "full": "images/wildlife/wildlife-058.jpg",
+      "w": 600,
+      "h": 480,
+      "alt": "Wildlife photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/wildlife-063.jpg",
+      "full": "images/wildlife/wildlife-063.jpg",
+      "w": 600,
+      "h": 480,
+      "alt": "Wildlife photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/wildlife-064.jpg",
+      "full": "images/wildlife/wildlife-064.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Wildlife photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/wildlife-068.jpg",
+      "full": "images/wildlife/wildlife-068.jpg",
+      "w": 600,
+      "h": 480,
+      "alt": "Wildlife photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/wildlife-069.jpg",
+      "full": "images/wildlife/wildlife-069.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Wildlife photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/wildlife-073.jpg",
+      "full": "images/wildlife/wildlife-073.jpg",
+      "w": 600,
+      "h": 429,
+      "alt": "Wildlife photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/wildlife-081.jpg",
+      "full": "images/wildlife/wildlife-081.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Wildlife photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/wildlife-084.jpg",
+      "full": "images/wildlife/wildlife-084.jpg",
+      "w": 600,
+      "h": 480,
+      "alt": "Wildlife photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/wildlife-087.jpg",
+      "full": "images/wildlife/wildlife-087.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Wildlife photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/wildlife-091.jpg",
+      "full": "images/wildlife/wildlife-091.jpg",
+      "w": 600,
+      "h": 480,
+      "alt": "Wildlife photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/wildlife-093.jpg",
+      "full": "images/wildlife/wildlife-093.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Wildlife photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/wildlife-101.jpg",
+      "full": "images/wildlife/wildlife-101.jpg",
+      "w": 600,
+      "h": 429,
+      "alt": "Wildlife photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/wildlife-115.jpg",
+      "full": "images/wildlife/wildlife-115.jpg",
+      "w": 600,
+      "h": 300,
+      "alt": "Wildlife photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/wildlife-122.jpg",
+      "full": "images/wildlife/wildlife-122.jpg",
+      "w": 600,
+      "h": 429,
+      "alt": "Wildlife photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/wildlife-124.jpg",
+      "full": "images/wildlife/wildlife-124.jpg",
+      "w": 600,
+      "h": 399,
+      "alt": "Wildlife photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/wildlife-126.jpg",
+      "full": "images/wildlife/wildlife-126.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Wildlife photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/wildlife-131.jpg",
+      "full": "images/wildlife/wildlife-131.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Wildlife photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/wildlife-132.jpg",
+      "full": "images/wildlife/wildlife-132.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Wildlife photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/wildlife-135.jpg",
+      "full": "images/wildlife/wildlife-135.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Wildlife photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/wildlife-136.jpg",
+      "full": "images/wildlife/wildlife-136.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Wildlife photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/wildlife-140.jpg",
+      "full": "images/wildlife/wildlife-140.jpg",
+      "w": 600,
+      "h": 429,
+      "alt": "Wildlife photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/wildlife-141.jpg",
+      "full": "images/wildlife/wildlife-141.jpg",
+      "w": 600,
+      "h": 482,
+      "alt": "Wildlife photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/wildlife-142.jpg",
+      "full": "images/wildlife/wildlife-142.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Wildlife photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/wildlife-143.jpg",
+      "full": "images/wildlife/wildlife-143.jpg",
+      "w": 600,
+      "h": 428,
+      "alt": "Wildlife photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/wildlife-144.jpg",
+      "full": "images/wildlife/wildlife-144.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Wildlife photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/wildlife-145.jpg",
+      "full": "images/wildlife/wildlife-145.jpg",
+      "w": 600,
+      "h": 428,
+      "alt": "Wildlife photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/wildlife-146.jpg",
+      "full": "images/wildlife/wildlife-146.jpg",
+      "w": 600,
+      "h": 428,
+      "alt": "Wildlife photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/wildlife-147.jpg",
+      "full": "images/wildlife/wildlife-147.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Wildlife photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/wildlife-148.jpg",
+      "full": "images/wildlife/wildlife-148.jpg",
+      "w": 600,
+      "h": 428,
+      "alt": "Wildlife photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/wildlife-149.jpg",
+      "full": "images/wildlife/wildlife-149.jpg",
+      "w": 428,
+      "h": 600,
+      "alt": "Wildlife photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/wildlife-150.jpg",
+      "full": "images/wildlife/wildlife-150.jpg",
+      "w": 600,
+      "h": 480,
+      "alt": "Wildlife photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/wildlife-151.jpg",
+      "full": "images/wildlife/wildlife-151.jpg",
+      "w": 600,
+      "h": 399,
+      "alt": "Wildlife photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "landscape",
+      "thumb": "thumbs/landscape/landscape-001.jpg",
+      "full": "images/landscape/landscape-001.jpg",
+      "w": 600,
+      "h": 399,
+      "alt": "Landscape photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "landscape",
+      "thumb": "thumbs/landscape/landscape-002.jpg",
+      "full": "images/landscape/landscape-002.jpg",
+      "w": 600,
+      "h": 399,
+      "alt": "Landscape photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "landscape",
+      "thumb": "thumbs/landscape/landscape-003.jpg",
+      "full": "images/landscape/landscape-003.jpg",
+      "w": 600,
+      "h": 399,
+      "alt": "Landscape photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "landscape",
+      "thumb": "thumbs/landscape/landscape-004.jpg",
+      "full": "images/landscape/landscape-004.jpg",
+      "w": 600,
+      "h": 399,
+      "alt": "Landscape photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "landscape",
+      "thumb": "thumbs/landscape/landscape-005.jpg",
+      "full": "images/landscape/landscape-005.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Landscape photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "landscape",
+      "thumb": "thumbs/landscape/landscape-008.jpg",
+      "full": "images/landscape/landscape-008.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Landscape photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "landscape",
+      "thumb": "thumbs/landscape/landscape-009.jpg",
+      "full": "images/landscape/landscape-009.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Landscape photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "landscape",
+      "thumb": "thumbs/landscape/landscape-010.jpg",
+      "full": "images/landscape/landscape-010.jpg",
+      "w": 600,
+      "h": 392,
+      "alt": "Landscape photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "landscape",
+      "thumb": "thumbs/landscape/landscape-011.jpg",
+      "full": "images/landscape/landscape-011.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Landscape photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "landscape",
+      "thumb": "thumbs/landscape/landscape-012.jpg",
+      "full": "images/landscape/landscape-012.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Landscape photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "landscape",
+      "thumb": "thumbs/landscape/landscape-013.jpg",
+      "full": "images/landscape/landscape-013.jpg",
+      "w": 600,
+      "h": 408,
+      "alt": "Landscape photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "landscape",
+      "thumb": "thumbs/landscape/landscape-014.jpg",
+      "full": "images/landscape/landscape-014.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Landscape photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "landscape",
+      "thumb": "thumbs/landscape/landscape-015.jpg",
+      "full": "images/landscape/landscape-015.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Landscape photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "landscape",
+      "thumb": "thumbs/landscape/landscape-016.jpg",
+      "full": "images/landscape/landscape-016.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Landscape photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "landscape",
+      "thumb": "thumbs/landscape/landscape-017.jpg",
+      "full": "images/landscape/landscape-017.jpg",
+      "w": 451,
+      "h": 600,
+      "alt": "Landscape photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "landscape",
+      "thumb": "thumbs/landscape/landscape-018.jpg",
+      "full": "images/landscape/landscape-018.jpg",
+      "w": 400,
+      "h": 600,
+      "alt": "Landscape photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "landscape",
+      "thumb": "thumbs/landscape/landscape-019.jpg",
+      "full": "images/landscape/landscape-019.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Landscape photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "landscape",
+      "thumb": "thumbs/landscape/landscape-020.jpg",
+      "full": "images/landscape/landscape-020.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Landscape photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "landscape",
+      "thumb": "thumbs/landscape/landscape-021.jpg",
+      "full": "images/landscape/landscape-021.jpg",
+      "w": 400,
+      "h": 600,
+      "alt": "Landscape photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "landscape",
+      "thumb": "thumbs/landscape/landscape-022.jpg",
+      "full": "images/landscape/landscape-022.jpg",
+      "w": 600,
+      "h": 439,
+      "alt": "Landscape photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "landscape",
+      "thumb": "thumbs/landscape/landscape-023.jpg",
+      "full": "images/landscape/landscape-023.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Landscape photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "landscape",
+      "thumb": "thumbs/landscape/landscape-024.jpg",
+      "full": "images/landscape/landscape-024.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Landscape photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "landscape",
+      "thumb": "thumbs/landscape/landscape-025.jpg",
+      "full": "images/landscape/landscape-025.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Landscape photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "landscape",
+      "thumb": "thumbs/landscape/landscape-026.jpg",
+      "full": "images/landscape/landscape-026.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Landscape photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "landscape",
+      "thumb": "thumbs/landscape/landscape-027.jpg",
+      "full": "images/landscape/landscape-027.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Landscape photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "landscape",
+      "thumb": "thumbs/landscape/landscape-028.jpg",
+      "full": "images/landscape/landscape-028.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Landscape photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "landscape",
+      "thumb": "thumbs/landscape/landscape-029.jpg",
+      "full": "images/landscape/landscape-029.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Landscape photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "landscape",
+      "thumb": "thumbs/landscape/landscape-030.jpg",
+      "full": "images/landscape/landscape-030.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Landscape photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "landscape",
+      "thumb": "thumbs/landscape/landscape-031.jpg",
+      "full": "images/landscape/landscape-031.jpg",
+      "w": 600,
+      "h": 431,
+      "alt": "Landscape photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "landscape",
+      "thumb": "thumbs/landscape/landscape-032.jpg",
+      "full": "images/landscape/landscape-032.jpg",
+      "w": 400,
+      "h": 600,
+      "alt": "Landscape photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "landscape",
+      "thumb": "thumbs/landscape/landscape-033.jpg",
+      "full": "images/landscape/landscape-033.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Landscape photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "landscape",
+      "thumb": "thumbs/landscape/landscape-035.jpg",
+      "full": "images/landscape/landscape-035.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Landscape photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "landscape",
+      "thumb": "thumbs/landscape/landscape-036.jpg",
+      "full": "images/landscape/landscape-036.jpg",
+      "w": 600,
+      "h": 428,
+      "alt": "Landscape photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "landscape",
+      "thumb": "thumbs/landscape/landscape-037.jpg",
+      "full": "images/landscape/landscape-037.jpg",
+      "w": 600,
+      "h": 399,
+      "alt": "Landscape photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "landscape",
+      "thumb": "thumbs/landscape/landscape-039.jpg",
+      "full": "images/landscape/landscape-039.jpg",
+      "w": 528,
+      "h": 600,
+      "alt": "Lily pond landscape photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "landscape",
+      "thumb": "thumbs/landscape/landscape-038.jpg",
+      "full": "images/landscape/landscape-038.jpg",
+      "w": 400,
+      "h": 600,
+      "alt": "Landscape photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "architecture",
+      "thumb": "thumbs/architecture/architecture-001.jpg",
+      "full": "images/architecture/architecture-001.jpg",
+      "w": 600,
+      "h": 415,
+      "alt": "Architecture photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "architecture",
+      "thumb": "thumbs/architecture/architecture-003.jpg",
+      "full": "images/architecture/architecture-003.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Architecture photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "architecture",
+      "thumb": "thumbs/architecture/architecture-004.jpg",
+      "full": "images/architecture/architecture-004.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Architecture photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "architecture",
+      "thumb": "thumbs/architecture/architecture-006.jpg",
+      "full": "images/architecture/architecture-006.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Architecture photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "architecture",
+      "thumb": "thumbs/architecture/architecture-011.jpg",
+      "full": "images/architecture/architecture-011.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Architecture photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "architecture",
+      "thumb": "thumbs/architecture/architecture-012.jpg",
+      "full": "images/architecture/architecture-012.jpg",
+      "w": 600,
+      "h": 429,
+      "alt": "Architecture photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "architecture",
+      "thumb": "thumbs/architecture/architecture-013.jpg",
+      "full": "images/architecture/architecture-013.jpg",
+      "w": 600,
+      "h": 429,
+      "alt": "Architecture photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "architecture",
+      "thumb": "thumbs/architecture/architecture-014.jpg",
+      "full": "images/architecture/architecture-014.jpg",
+      "w": 400,
+      "h": 600,
+      "alt": "Architecture photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "architecture",
+      "thumb": "thumbs/architecture/architecture-015.jpg",
+      "full": "images/architecture/architecture-015.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Architecture photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "architecture",
+      "thumb": "thumbs/architecture/architecture-017.jpg",
+      "full": "images/architecture/architecture-017.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Architecture photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "architecture",
+      "thumb": "thumbs/architecture/architecture-019.jpg",
+      "full": "images/architecture/architecture-019.jpg",
+      "w": 600,
+      "h": 421,
+      "alt": "Architecture photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "architecture",
+      "thumb": "thumbs/architecture/architecture-021.jpg",
+      "full": "images/architecture/architecture-021.jpg",
+      "w": 600,
+      "h": 399,
+      "alt": "Architecture photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "architecture",
+      "thumb": "thumbs/architecture/architecture-022.jpg",
+      "full": "images/architecture/architecture-022.jpg",
+      "w": 600,
+      "h": 399,
+      "alt": "Architecture photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "architecture",
+      "thumb": "thumbs/architecture/architecture-023.jpg",
+      "full": "images/architecture/architecture-023.jpg",
+      "w": 600,
+      "h": 400,
+      "alt": "Architecture photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "architecture",
+      "thumb": "thumbs/architecture/architecture-024.jpg",
+      "full": "images/architecture/architecture-024.jpg",
+      "w": 600,
+      "h": 398,
+      "alt": "Architecture photograph by Paul E. Stafford"
+    },
+    {
+      "cat": "landscape",
+      "thumb": "thumbs/landscape/upload-5090f084-55b3-4540-a516-c703de8624a5.jpg",
+      "full": "images/landscape/upload-5090f084-55b3-4540-a516-c703de8624a5.jpg",
+      "w": 1280,
+      "h": 960,
+      "alt": "Wildflowers along a hillside road"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/upload-f89d36ba-3c55-4aed-a4c4-f31ba252b309.jpg",
+      "full": "images/wildlife/upload-f89d36ba-3c55-4aed-a4c4-f31ba252b309.jpg",
+      "w": 1280,
+      "h": 851,
+      "alt": "Butterfly on pink flowers"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/upload-587a916d-e0ed-4dca-8f7a-c3f24192146e.jpg",
+      "full": "images/wildlife/upload-587a916d-e0ed-4dca-8f7a-c3f24192146e.jpg",
+      "w": 1280,
+      "h": 850,
+      "alt": "Deer resting in brush"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/upload-88ca5055-ed7f-405a-9173-ea4b2652b4af.jpg",
+      "full": "images/wildlife/upload-88ca5055-ed7f-405a-9173-ea4b2652b4af.jpg",
+      "w": 1280,
+      "h": 850,
+      "alt": "Deer among trees"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/upload-612f165c-ab4d-4264-bcdd-bb34c0d93cda.jpg",
+      "full": "images/wildlife/upload-612f165c-ab4d-4264-bcdd-bb34c0d93cda.jpg",
+      "w": 960,
+      "h": 997,
+      "alt": "Squirrel on a tree"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/upload-b1232fa8-8638-4e56-8f7d-1cd9a76fa7f0.jpg",
+      "full": "images/wildlife/upload-b1232fa8-8638-4e56-8f7d-1cd9a76fa7f0.jpg",
+      "w": 1280,
+      "h": 850,
+      "alt": "Birds in flight"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/upload-94fc56d0-9324-4139-a293-91ee170a49e8.jpg",
+      "full": "images/wildlife/upload-94fc56d0-9324-4139-a293-91ee170a49e8.jpg",
+      "w": 1280,
+      "h": 913,
+      "alt": "Leaping buck"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/upload-585e8f04-10d7-4a71-97f1-7206784104b7.jpg",
+      "full": "images/wildlife/upload-585e8f04-10d7-4a71-97f1-7206784104b7.jpg",
+      "w": 961,
+      "h": 967,
+      "alt": "Hummingbird at a flower"
+    },
+    {
+      "cat": "landscape",
+      "thumb": "thumbs/landscape/upload-d6f53623-2e6a-4587-a223-3e38d867ec57.jpg",
+      "full": "images/landscape/upload-d6f53623-2e6a-4587-a223-3e38d867ec57.jpg",
+      "w": 1280,
+      "h": 853,
+      "alt": "Autumn hills"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/upload-82067219-e868-4438-bf24-08590106ae01.jpg",
+      "full": "images/wildlife/upload-82067219-e868-4438-bf24-08590106ae01.jpg",
+      "w": 1280,
+      "h": 850,
+      "alt": "Javelina"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/upload-42388302-6cf4-4992-a4b6-aa17dddf2799.jpg",
+      "full": "images/wildlife/upload-42388302-6cf4-4992-a4b6-aa17dddf2799.jpg",
+      "w": 1280,
+      "h": 850,
+      "alt": "Cardinal on a branch"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/upload-7c47827e-c424-4298-942f-de56a763b4fa.jpg",
+      "full": "images/wildlife/upload-7c47827e-c424-4298-942f-de56a763b4fa.jpg",
+      "w": 1280,
+      "h": 850,
+      "alt": "Ducks beside water"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/upload-05cb0e21-ec4f-48b3-ac6f-04457d161a3d.jpg",
+      "full": "images/wildlife/upload-05cb0e21-ec4f-48b3-ac6f-04457d161a3d.jpg",
+      "w": 1280,
+      "h": 853,
+      "alt": "Ducks on a branch"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/upload-ac601efa-b364-45bb-b47d-58627ab27cb2.jpg",
+      "full": "images/wildlife/upload-ac601efa-b364-45bb-b47d-58627ab27cb2.jpg",
+      "w": 1280,
+      "h": 853,
+      "alt": "Butterfly on white flowers"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/upload-c0ad8359-7388-4051-a882-e139827e14fb.jpg",
+      "full": "images/wildlife/upload-c0ad8359-7388-4051-a882-e139827e14fb.jpg",
+      "w": 1280,
+      "h": 854,
+      "alt": "Bird among berries"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/upload-fd94c690-3142-43b2-b183-9698cbda4e25.jpg",
+      "full": "images/wildlife/upload-fd94c690-3142-43b2-b183-9698cbda4e25.jpg",
+      "w": 1280,
+      "h": 853,
+      "alt": "Black cat in brush"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/upload-0f79e177-4858-4833-838d-384d9d18d032.jpg",
+      "full": "images/wildlife/upload-0f79e177-4858-4833-838d-384d9d18d032.jpg",
+      "w": 1280,
+      "h": 853,
+      "alt": "Deer beneath trees"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/upload-95521f01-2ca8-4e34-81a1-ba5eea0b209a.jpg",
+      "full": "images/wildlife/upload-95521f01-2ca8-4e34-81a1-ba5eea0b209a.jpg",
+      "w": 961,
+      "h": 1101,
+      "alt": "Butterfly on a thistle"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/upload-c59a77b4-7fd9-4e02-bdd6-4b2dd662b9d1.jpg",
+      "full": "images/wildlife/upload-c59a77b4-7fd9-4e02-bdd6-4b2dd662b9d1.jpg",
+      "w": 1200,
+      "h": 960,
+      "alt": "Bird of prey on a branch"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/upload-79e2c70f-652d-4e35-a9fa-725ffc32a7d1.jpg",
+      "full": "images/wildlife/upload-79e2c70f-652d-4e35-a9fa-725ffc32a7d1.jpg",
+      "w": 914,
+      "h": 1280,
+      "alt": "Butterfly"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/upload-b73143a9-2290-43ac-8e6d-8a02fdd63d7b.jpg",
+      "full": "images/wildlife/upload-b73143a9-2290-43ac-8e6d-8a02fdd63d7b.jpg",
+      "w": 1280,
+      "h": 853,
+      "alt": "Buck among trees"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/upload-0b38c0fe-252c-4546-8a20-c252ed25d475.jpg",
+      "full": "images/wildlife/upload-0b38c0fe-252c-4546-8a20-c252ed25d475.jpg",
+      "w": 1280,
+      "h": 720,
+      "alt": "Butterfly on orange flowers"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/upload-86269fa5-6cd8-4cff-8424-1048559456be.jpg",
+      "full": "images/wildlife/upload-86269fa5-6cd8-4cff-8424-1048559456be.jpg",
+      "w": 1280,
+      "h": 853,
+      "alt": "Buck in brush"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/upload-30fc51d1-dc45-4cc1-be5c-a0084cede75a.jpg",
+      "full": "images/wildlife/upload-30fc51d1-dc45-4cc1-be5c-a0084cede75a.jpg",
+      "w": 1280,
+      "h": 853,
+      "alt": "Buck in woodland"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/upload-7076c386-2daa-4b46-ad87-b3a2f3c512e5.jpg",
+      "full": "images/wildlife/upload-7076c386-2daa-4b46-ad87-b3a2f3c512e5.jpg",
+      "w": 1280,
+      "h": 853,
+      "alt": "Buck resting"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/upload-685ad7a0-ccdc-46c5-8e13-3efc9ee54fa2.jpg",
+      "full": "images/wildlife/upload-685ad7a0-ccdc-46c5-8e13-3efc9ee54fa2.jpg",
+      "w": 914,
+      "h": 1280,
+      "alt": "Buck in grass"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/upload-8f7bd3d7-eb90-44a8-844d-9889c9ff8f5c.jpg",
+      "full": "images/wildlife/upload-8f7bd3d7-eb90-44a8-844d-9889c9ff8f5c.jpg",
+      "w": 1280,
+      "h": 853,
+      "alt": "Four birds on a branch"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/upload-bbb9569a-8266-4cc8-aa66-fb7f58974c32.jpg",
+      "full": "images/wildlife/upload-bbb9569a-8266-4cc8-aa66-fb7f58974c32.jpg",
+      "w": 1143,
+      "h": 914,
+      "alt": "Bird of prey in flight"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/upload-7093c27c-ca72-4d8f-97cf-40829b9a67e7.jpg",
+      "full": "images/wildlife/upload-7093c27c-ca72-4d8f-97cf-40829b9a67e7.jpg",
+      "w": 1280,
+      "h": 852,
+      "alt": "Wild hog"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/upload-a00ef44e-7abf-4bcb-a5b0-1553b6ef17b9.jpg",
+      "full": "images/wildlife/upload-a00ef44e-7abf-4bcb-a5b0-1553b6ef17b9.jpg",
+      "w": 1280,
+      "h": 914,
+      "alt": "Bird of prey with wings spread"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/upload-631df88a-a7a8-4b89-b23a-d7beb905b148.jpg",
+      "full": "images/wildlife/upload-631df88a-a7a8-4b89-b23a-d7beb905b148.jpg",
+      "w": 1280,
+      "h": 853,
+      "alt": "Butterfly on purple flowers"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/upload-0484106f-d4d8-4bdc-9005-4c59fa547d43.jpg",
+      "full": "images/wildlife/upload-0484106f-d4d8-4bdc-9005-4c59fa547d43.jpg",
+      "w": 1280,
+      "h": 853,
+      "alt": "Dove beside snow"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/upload-1a6a0a74-5e38-4928-b027-6d772cabb03d.jpg",
+      "full": "images/wildlife/upload-1a6a0a74-5e38-4928-b027-6d772cabb03d.jpg",
+      "w": 1280,
+      "h": 853,
+      "alt": "Butterflies on flowers"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/upload-265d5cc4-862d-406f-8c52-f8340b2dd4cc.jpg",
+      "full": "images/wildlife/upload-265d5cc4-862d-406f-8c52-f8340b2dd4cc.jpg",
+      "w": 1280,
+      "h": 853,
+      "alt": "Birds in flight"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/upload-8a993755-4c87-4614-93f5-7a5a8dd10ca9.jpg",
+      "full": "images/wildlife/upload-8a993755-4c87-4614-93f5-7a5a8dd10ca9.jpg",
+      "w": 1280,
+      "h": 853,
+      "alt": "Antelope in a field"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/upload-7b96f2b5-14c5-493b-8cb0-01b3ffc771e0.jpg",
+      "full": "images/wildlife/upload-7b96f2b5-14c5-493b-8cb0-01b3ffc771e0.jpg",
+      "w": 1280,
+      "h": 914,
+      "alt": "Deer at the woodland edge"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/upload-c467b154-7522-4482-8901-80bf3e334cf4.jpg",
+      "full": "images/wildlife/upload-c467b154-7522-4482-8901-80bf3e334cf4.jpg",
+      "w": 1280,
+      "h": 853,
+      "alt": "Buck in tall grass"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/upload-94ea9ba7-43e8-440f-a1e3-12279eb5f4e4.jpg",
+      "full": "images/wildlife/upload-94ea9ba7-43e8-440f-a1e3-12279eb5f4e4.jpg",
+      "w": 1280,
+      "h": 857,
+      "alt": "Highland cow"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/upload-0fd5275c-32f2-43c8-8fef-9e8bd2df4220.jpg",
+      "full": "images/wildlife/upload-0fd5275c-32f2-43c8-8fef-9e8bd2df4220.jpg",
+      "w": 1280,
+      "h": 914,
+      "alt": "Spotted big cat"
+    },
+    {
+      "cat": "wildlife",
+      "thumb": "thumbs/wildlife/upload-316d1e0d-e370-4f94-bf96-1a4431cc3869.jpg",
+      "full": "images/wildlife/upload-316d1e0d-e370-4f94-bf96-1a4431cc3869.jpg",
+      "w": 1280,
+      "h": 854,
+      "alt": "Turkey in water"
+    }
+  ]
+}
